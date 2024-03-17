@@ -1,6 +1,6 @@
-<h1 align="center">Bright Byte </h1>
+<h1 align="center">BrightByte </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Bright_Byte_version-not_released_yet-red">
+  <img src="https://img.shields.io/badge/BrightByte_version-not_released_yet-red">
 </p>
   
 <p align="center">
